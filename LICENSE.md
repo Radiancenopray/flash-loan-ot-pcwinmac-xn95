@@ -1,4 +1,4 @@
-# 
+# Advanced flash loan arbitrage bot presets for Mac OS | Updated flash loan arbitrage bot presets for PC Windows. Featuring gas price optimization and private rpc endpoints — optimized for maximum performance on every platform.
 
 
 
